@@ -1,5 +1,5 @@
 
-# Yoga Pose Visualizer
+# Yoga Pose Visualizer Proof of Concept
 
 A voice-controlled web application that displays an image of a yoga pose when you say its name. Perfect for learning new poses or for a hands-free yoga session guide!
 
